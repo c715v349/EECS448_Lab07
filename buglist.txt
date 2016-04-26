@@ -1,0 +1,7 @@
+addBack() takes whatever's on the front of the list and adds it to the back rather than the value that you want
+
+removeFront() removes from the back of the list
+
+isEmpty() does not show correctly if the list is is empty, always false positive
+
+size() adds one to the current size
